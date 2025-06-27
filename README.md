@@ -41,7 +41,7 @@ Develop a clean and user-friendly web app that allows users to:
 ## 🚀 How to Run Locally
 
 1. **Clone the repo**:
-   git clone https://github.com/yourusername/GameOn.git
+   git clone https://github.com/kniranjan18/GameOn.git
    cd GameOn
 2. **Install dependencies**:
    npm install
